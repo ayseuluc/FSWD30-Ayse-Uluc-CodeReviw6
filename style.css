@@ -1,0 +1,42 @@
+body{
+    padding-top:70px;
+    color:rgba(23, 70, 72, 1.0);
+}
+.navbar-inverse{
+    background: rgba(23, 70, 72, 0.5);
+}
+.navbar-inverse .navbar-nav>li>a{
+    color:white;
+}
+
+.navbar-inverse .navbar-brand{
+    color:white;
+}
+
+.jumbotron{
+    background-image: url(img/foto.jpg);
+
+    font-family: 'Permanent Marker', cursive;
+    font-color: white;
+}
+
+.photo-row{
+  display: flex;
+  flex-wrap: wrap
+
+}
+
+
+.checked {
+    color: orange;
+}
+
+
+p{
+	font-weight: bold;
+}
+
+
+image{
+	width: 100%;
+}
